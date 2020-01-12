@@ -122,7 +122,7 @@
     "description": "Everstake - Staking Service Platform. Delegate XTZ with Everstake, your trusted staking partner.",
     "website": "https://everstake.one/",
     "payout": {
-      "commission": 10
+      "commission": 5
     }
   },
   {
@@ -258,6 +258,15 @@
     "website": "https://bakingtacos.com",
     "payout": {
       "commission": 8
+    }
+  },
+  {
+    "id": "tz1QLXqnfN51dkjeghXvKHkJfhvGiM5gK4tc",
+    "name": "FreshTEZOS",
+    "description": "FreshTEZOS, one of the oldest Tezos bakers, runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter, geographically distributed private peers, wrapped in 24/7 monitoring, alerting, and analytics.",
+    "website": "https://freshtezos.com/",
+    "payout": {
+      "commission": 10
     }
   }
 ]
