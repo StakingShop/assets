@@ -278,6 +278,7 @@
       "name": "TezoShop",
       "description": "TezoShop is PRO Tezos baker ",
       "website": "https://tezoshop.art",
+      "disabled": true,
       "payout": {
          "commission": 3
       }
