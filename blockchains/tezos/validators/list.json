@@ -282,6 +282,11 @@
          "commission": 3
       }
    },
+   "status": {
+         "disabled": true,
+         "note:": "Outdated"
+      }
+   },
    {
       "id": "tz1egbN6RK2bM5vt4aAZw6r9j4nL8z49bPdS",
       "name": "moneyevery3days.com old baking address",
